@@ -1,5 +1,4 @@
-import { useUserProfile } from "@/hooks/fetchUserProfile";
-import Slider from "../home/slider";
+import Slider from "../home/Slider";
 import Printing from "../home/Printing";
 import ProductCart from "../home/ProductCart";
 import Discount from "../home/Discount";
